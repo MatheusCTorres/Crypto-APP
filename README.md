@@ -1,4 +1,4 @@
 # Crypto-APP
 
-## site: https://youthful-ritchie-ac714a.netlify.app/
+## site: https://crypto-app-livid-seven.vercel.app/
 ![project image](https://github.com/MatheusCTorres/Crypto-APP/blob/main/img.png)
